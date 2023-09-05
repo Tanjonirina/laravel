@@ -1,0 +1,35 @@
+body{
+  background-image: url('../../image/gros-plan-entrepreneur-travaillant-domicile-ses-finances-personnelles-ses-economies.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.login {
+  margin-top: 10%;
+
+}
+.login .text {
+ font-family: cursive;
+ color: white;
+
+
+  }
+.login img{
+  border-radius: 100%;
+  background: rgb(0, 0, 0,0.2);
+}
+.login input {
+
+    border-radius: 30px;
+}
+.login button {
+
+    border-radius: 30px;
+}
+.bag{
+    background: rgb(255, 255, 255,0.2);
+    box-shadow: 0 4px 30px rgba(17, 17, 17, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+   border-radius: 250px;
+   box-shadow: rgb(0,0,0, 15);
+}
